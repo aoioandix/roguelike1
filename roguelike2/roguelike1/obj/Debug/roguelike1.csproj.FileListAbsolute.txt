@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Desktop\roguelike project\roguelike1\roguelike1\bin\Debug\roguelike1.exe.config
+C:\Users\Lenovo\Desktop\roguelike project\roguelike1\roguelike1\bin\Debug\terminal8x8.png
+C:\Users\Lenovo\Desktop\roguelike project\roguelike1\roguelike1\bin\Debug\roguelike1.exe
+C:\Users\Lenovo\Desktop\roguelike project\roguelike1\roguelike1\bin\Debug\roguelike1.pdb
+C:\Users\Lenovo\Desktop\roguelike project\roguelike1\roguelike1\bin\Debug\OpenTK.dll
+C:\Users\Lenovo\Desktop\roguelike project\roguelike1\roguelike1\bin\Debug\RLNET.dll
+C:\Users\Lenovo\Desktop\roguelike project\roguelike1\roguelike1\bin\Debug\RogueSharp.dll
+C:\Users\Lenovo\Desktop\roguelike project\roguelike1\roguelike1\bin\Debug\OpenTK.xml
+C:\Users\Lenovo\Desktop\roguelike project\roguelike1\roguelike1\bin\Debug\RogueSharp.xml
+C:\Users\Lenovo\Desktop\roguelike project\roguelike1\roguelike1\obj\Debug\roguelike1.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\roguelike project\roguelike1\roguelike1\obj\Debug\roguelike1.exe
+C:\Users\Lenovo\Desktop\roguelike project\roguelike1\roguelike1\obj\Debug\roguelike1.pdb
